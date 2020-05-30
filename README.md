@@ -1,2 +1,3 @@
-# JetBrains_Tic-tac-toe
-Tic-Tac-Toe game. Created for JetBrains Academy.
+# JetBrains Academy Projects. Python 3
+1. Tic-Tac-Toe game
+2. Coffee Machine
