@@ -1,4 +1,3 @@
-# Write your code here
 class CoffeeMachine:
     def __init__(self):
         self.water_base = 400
